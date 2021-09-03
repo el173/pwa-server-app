@@ -1,0 +1,17 @@
+{
+  "name": "pwa-server-app",
+  "version": "1.0.0",
+  "description": "Server application for PWA RN integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "author": "el173",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
